@@ -1,4 +1,4 @@
-#Alfredo Aleman's Project Page
+# Alfredo Aleman's Project Page
 
 Hello there! Welcome to my project page! I am Alfredo Aleman (as you 
 might have guessed by the header above this) and this is my Github Pages 
