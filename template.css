@@ -17,3 +17,11 @@
     padding: 3rem 1.5rem;
     text-align: center;
 }
+
+.icon-resize {
+    height: auto; 
+    width: auto; 
+    max-width: 200px; 
+    max-height: 200px;
+
+}
