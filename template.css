@@ -25,3 +25,15 @@
     max-height: 200px;
 
 }
+
+.index-content {
+    padding: 1cm;
+}
+
+p.content-padding {
+    padding: 2px 10px;
+}
+
+.image-padding {
+    padding: 0px 2px 20px;
+}
